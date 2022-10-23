@@ -1,4 +1,5 @@
 # delta-optimization
+![delta](images/delta.PNG)
 ## This repo only uses matlab and numpy (not integrated with Cameo Systems Modeler)
 NOTE: You should integrate numpy (python) with matlab to run the scripts (I will explain how to do it later cause I formatted my laptop)
 
